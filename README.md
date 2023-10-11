@@ -10,17 +10,11 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently studying Physics, 4th year student 💻<br>- 🔭 I’m currently learning Golang to build fundamental knowledge 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 💬 Ask me about Go, Rust, JavaScript, Linux and anything related to coding/programming/hacking/developing apps in near future ⛓<br>-🧑 Pronouns: she/her </p>
+<p align="left">- 🌱 I’m currently studying Physics, 4th year student 💻<br>- 🔭 I’m currently learning Golang to build fundamental knowledge 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 💬 Ask me about Go, Rust, JavaScript, Linux and anything related to coding/programming/hacking/developing apps in near future ⛓<br>-🧑 Pronouns: she/her <br>-🤝I’m looking for help with **go-reloaded** <br>-💬 Ask me about</p>
 
 ###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belivinge" alt="belivinge" /></a> </p>
-
-- 🌱 I’m currently reading **The Art of Network Penetration Testing by Royce Davis**
-
-- 🤝 I’m looking for help with **go-reloaded**
-
-- 💬 Ask me about **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
