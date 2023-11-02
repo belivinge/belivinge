@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently studying Physics, 4th year student 💻<br>- 🔭 I’m currently learning Golang to build fundamental knowledge 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 💬 Ask me about Go, Rust, JavaScript, Linux and anything related to coding/programming/hacking/developing apps in near future ⛓<br>-🧑 Pronouns: she/her <br>-🤝I’m looking for help with **go-reloaded** <br>-💬 Ask me about</p>
+<p align="left">- 🌱 I’m currently studying Physics, 4th year student 💻<br>- 🔭 I’m currently learning Golang to build fundamental knowledge 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 💬 Ask me about Go, Rust, JavaScript, Linux and anything related to coding/programming/hacking/developing apps in near future ⛓<br>-🧑 Pronouns: she/her <br>-🤝I’m looking for help with **ascii-art-web** <br>-💬 Ask me about</p>
 
 ###
 
