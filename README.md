@@ -4,6 +4,8 @@
 
 <p align="left">My name is Aruzhan and I’m interested in Software Engineering</p>
 
+<p align="left">I really want to own SSC Tuatara so I need to monetize my interests: I can help you with any job related to my profession</p>
+
 ###
 
 <h2 align="left">About me</h2>
